@@ -59,42 +59,42 @@
     <tr>
       <td>&nbsp;<a href="https://github.com/trebaud/diffcat"><b>diffcat</b></a>&nbsp;</td>
       <td>&nbsp;A TUI for visualizing git diffs&nbsp;</td>
-      <td>&nbsp;<img alt="Stars" src="https://img.shields.io/github/stars/trebaud/diffcat?style=flat-square&labelColor=343b41"/>&nbsp;</td>
+      <td>&nbsp;<a href="https://github.com/trebaud/diffcat/stargazers"><img alt="Stars" src="https://img.shields.io/badge/stars-11-007ec6?style=flat-square&labelColor=343b41"/></a>&nbsp;</td>
     </tr>
     <tr>
       <td>&nbsp;<a href="https://github.com/trebaud/mori"><b>mori</b></a>&nbsp;</td>
       <td>&nbsp;A TUI for managing git worktrees&nbsp;</td>
-      <td>&nbsp;<img alt="Stars" src="https://img.shields.io/github/stars/trebaud/mori?style=flat-square&labelColor=343b41"/>&nbsp;</td>
+      <td>&nbsp;<a href="https://github.com/trebaud/mori/stargazers"><img alt="Stars" src="https://img.shields.io/badge/stars-2-007ec6?style=flat-square&labelColor=343b41"/></a>&nbsp;</td>
     </tr>
     <tr>
       <td>&nbsp;<a href="https://github.com/trebaud/skills"><b>skills</b></a>&nbsp;</td>
       <td>&nbsp;A collection of useful agent skills&nbsp;</td>
-      <td>&nbsp;<img alt="Stars" src="https://img.shields.io/github/stars/trebaud/skills?style=flat-square&labelColor=343b41"/>&nbsp;</td>
+      <td>&nbsp;<a href="https://github.com/trebaud/skills/stargazers"><img alt="Stars" src="https://img.shields.io/badge/stars-1-007ec6?style=flat-square&labelColor=343b41"/></a>&nbsp;</td>
     </tr>
     <tr>
       <td>&nbsp;<a href="https://github.com/trebaud/marmite"><b>marmite</b></a>&nbsp;</td>
       <td>&nbsp;Yet another coding harness&nbsp;</td>
-      <td>&nbsp;<img alt="Stars" src="https://img.shields.io/github/stars/trebaud/marmite?style=flat-square&labelColor=343b41"/>&nbsp;</td>
+      <td>&nbsp;<a href="https://github.com/trebaud/marmite/stargazers"><img alt="Stars" src="https://img.shields.io/badge/stars-0-007ec6?style=flat-square&labelColor=343b41"/></a>&nbsp;</td>
     </tr>
     <tr>
       <td>&nbsp;<a href="https://github.com/trebaud/llm-to-sql"><b>llm-to-sql</b></a>&nbsp;</td>
       <td>&nbsp;Talk to PocketBase with a local LLM&nbsp;</td>
-      <td>&nbsp;<img alt="Stars" src="https://img.shields.io/github/stars/trebaud/llm-to-sql?style=flat-square&labelColor=343b41"/>&nbsp;</td>
+      <td>&nbsp;<a href="https://github.com/trebaud/llm-to-sql/stargazers"><img alt="Stars" src="https://img.shields.io/badge/stars-4-007ec6?style=flat-square&labelColor=343b41"/></a>&nbsp;</td>
     </tr>
     <tr>
       <td>&nbsp;<a href="https://github.com/trebaud/Security-audit-CLI"><b>Security-audit-CLI</b></a>&nbsp;</td>
       <td>&nbsp;Runs a security audit on your unix machine&nbsp;</td>
-      <td>&nbsp;<img alt="Stars" src="https://img.shields.io/github/stars/trebaud/Security-audit-CLI?style=flat-square&labelColor=343b41"/>&nbsp;</td>
+      <td>&nbsp;<a href="https://github.com/trebaud/Security-audit-CLI/stargazers"><img alt="Stars" src="https://img.shields.io/badge/stars-0-007ec6?style=flat-square&labelColor=343b41"/></a>&nbsp;</td>
     </tr>
     <tr>
       <td>&nbsp;<a href="https://github.com/trebaud/markdown-preview.nvim"><b>markdown-preview.nvim</b></a>&nbsp;</td>
       <td>&nbsp;Live markdown preview for Neovim, powered by Bun&nbsp;</td>
-      <td>&nbsp;<img alt="Stars" src="https://img.shields.io/github/stars/trebaud/markdown-preview.nvim?style=flat-square&labelColor=343b41"/>&nbsp;</td>
+      <td>&nbsp;<a href="https://github.com/trebaud/markdown-preview.nvim/stargazers"><img alt="Stars" src="https://img.shields.io/badge/stars-1-007ec6?style=flat-square&labelColor=343b41"/></a>&nbsp;</td>
     </tr>
     <tr>
       <td>&nbsp;<a href="https://github.com/trebaud/let-an-agent-build-your-blog"><b>let-an-agent-build-your-blog</b></a>&nbsp;</td>
       <td>&nbsp;An agent-ready static site generator&nbsp;</td>
-      <td>&nbsp;<img alt="Stars" src="https://img.shields.io/github/stars/trebaud/let-an-agent-build-your-blog?style=flat-square&labelColor=343b41"/>&nbsp;</td>
+      <td>&nbsp;<a href="https://github.com/trebaud/let-an-agent-build-your-blog/stargazers"><img alt="Stars" src="https://img.shields.io/badge/stars-1-007ec6?style=flat-square&labelColor=343b41"/></a>&nbsp;</td>
     </tr>
   </tbody>
 </table>

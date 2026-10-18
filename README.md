@@ -72,19 +72,9 @@
       <td>&nbsp;<a href="https://github.com/trebaud/skills/stargazers"><img alt="Stars" src="https://img.shields.io/badge/stars-1-007ec6?style=flat-square&labelColor=343b41"/></a>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;<a href="https://github.com/trebaud/marmite"><b>marmite</b></a>&nbsp;</td>
-      <td>&nbsp;Yet another coding harness&nbsp;</td>
-      <td>&nbsp;<a href="https://github.com/trebaud/marmite/stargazers"><img alt="Stars" src="https://img.shields.io/badge/stars-0-007ec6?style=flat-square&labelColor=343b41"/></a>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>&nbsp;<a href="https://github.com/trebaud/llm-to-sql"><b>llm-to-sql</b></a>&nbsp;</td>
-      <td>&nbsp;Talk to PocketBase with a local LLM&nbsp;</td>
-      <td>&nbsp;<a href="https://github.com/trebaud/llm-to-sql/stargazers"><img alt="Stars" src="https://img.shields.io/badge/stars-4-007ec6?style=flat-square&labelColor=343b41"/></a>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>&nbsp;<a href="https://github.com/trebaud/Security-audit-CLI"><b>Security-audit-CLI</b></a>&nbsp;</td>
-      <td>&nbsp;Runs a security audit on your unix machine&nbsp;</td>
-      <td>&nbsp;<a href="https://github.com/trebaud/Security-audit-CLI/stargazers"><img alt="Stars" src="https://img.shields.io/badge/stars-0-007ec6?style=flat-square&labelColor=343b41"/></a>&nbsp;</td>
+      <td>&nbsp;<a href="https://github.com/trebaud/security-audit-harness"><b>security-audit-harness</b></a>&nbsp;</td>
+      <td>&nbsp;Parallel Claude Code security audits across a codebase&nbsp;</td>
+      <td>&nbsp;<a href="https://github.com/trebaud/security-audit-harness/stargazers"><img alt="Stars" src="https://img.shields.io/badge/stars-0-007ec6?style=flat-square&labelColor=343b41"/></a>&nbsp;</td>
     </tr>
     <tr>
       <td>&nbsp;<a href="https://github.com/trebaud/markdown-preview.nvim"><b>markdown-preview.nvim</b></a>&nbsp;</td>

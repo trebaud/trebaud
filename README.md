@@ -11,13 +11,7 @@
 </p>
 
 <p align="center">
-  Go for terminal tools, TypeScript for everything web, Neovim for all of it.
-</p>
-
-<p align="center">
   I write at <a href="https://trebaud.com">trebaud.com</a>.
-  <br>
-  Calibration: <code>0.1 &lt; P(doom|AGI) &lt; 0.9</code>
 </p>
 
 <br>

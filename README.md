@@ -66,7 +66,7 @@
       <td>&nbsp;<a href="https://github.com/trebaud/skills/stargazers"><img alt="Stars" src="https://img.shields.io/badge/stars-1-007ec6?style=flat-square&labelColor=343b41"/></a>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;<a href="https://github.com/trebaud/security-audit-harness"><b>security-audit-harness</b></a>&nbsp;</td>
+      <td>&nbsp;<a href="https://github.com/trebaud/swarm-security-audit"><b>swarm-security-audit</b></a>&nbsp;</td>
       <td>&nbsp;Parallel Claude Code security audits across a codebase&nbsp;</td>
       <td>&nbsp;<a href="https://github.com/trebaud/security-audit-harness/stargazers"><img alt="Stars" src="https://img.shields.io/badge/stars-0-007ec6?style=flat-square&labelColor=343b41"/></a>&nbsp;</td>
     </tr>

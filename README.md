@@ -75,11 +75,6 @@
       <td>&nbsp;Live markdown preview for Neovim, powered by Bun&nbsp;</td>
       <td>&nbsp;<a href="https://github.com/trebaud/markdown-preview.nvim/stargazers"><img alt="Stars" src="https://img.shields.io/badge/stars-1-007ec6?style=flat-square&labelColor=343b41"/></a>&nbsp;</td>
     </tr>
-    <tr>
-      <td>&nbsp;<a href="https://github.com/trebaud/let-an-agent-build-your-blog"><b>let-an-agent-build-your-blog</b></a>&nbsp;</td>
-      <td>&nbsp;An agent-ready static site generator&nbsp;</td>
-      <td>&nbsp;<a href="https://github.com/trebaud/let-an-agent-build-your-blog/stargazers"><img alt="Stars" src="https://img.shields.io/badge/stars-1-007ec6?style=flat-square&labelColor=343b41"/></a>&nbsp;</td>
-    </tr>
   </tbody>
 </table>
 
@@ -97,21 +92,8 @@
   &nbsp;
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   &nbsp;
-  <img alt="Bun" src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white" />
-  &nbsp;
-  <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-<p align="center">
-  <img alt="Neovim" src="https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white" />
-  &nbsp;
-  <img alt="Lua" src="https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" />
-  &nbsp;
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  &nbsp;
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   &nbsp;
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
 <br>
